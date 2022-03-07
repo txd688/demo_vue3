@@ -30,9 +30,11 @@ npm run test:unit
 npm run lint
 ```
 
-### Customize configuration
+## 功能
 
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1. 手写签名
+
+## 使用插件介绍
 
 ### Vant
 
@@ -58,10 +60,10 @@ postcss-px-to-viewport 可从像素单元生成视口单元（vw、vh、vmin、v
 
 推荐学习文档：[docs](https://npmmirror.com/package/postcss-px-to-viewport)
 
-### vue-esign
+### smooth-signature
 
-vue-esign Canvas手写签字，电子签名。
+smooth-signature 带笔锋手写签名。
 
-安装：**npm install vue-esign --save**
+安装：**npm install smooth-signature**
 
-推荐学习文档：[docs](https://www.npmjs.com/package/vue-esign)
+推荐学习文档：[docs](https://github.com/linjc/smooth-signature)
