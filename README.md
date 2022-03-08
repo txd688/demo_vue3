@@ -67,3 +67,11 @@ smooth-signature 带笔锋手写签名。
 安装：**npm install smooth-signature**
 
 推荐学习文档：[docs](https://github.com/linjc/smooth-signature)
+
+### html2canvas
+
+html2canvas 生成截图。
+
+安装：**npm install --save html2canvas**
+
+推荐学习文档：[docs](http://html2canvas.hertzen.com/)

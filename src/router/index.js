@@ -16,6 +16,11 @@ const routes = [
         path: '/demo/signature',
         name: 'Signature',
         component: () => import('@/views/demo/Signature.vue')
+      },
+      {
+        path: '/demo/screenshots',
+        name: 'Screenshots',
+        component: () => import('@/views/demo/Screenshots.vue')
       }
     ]
   }

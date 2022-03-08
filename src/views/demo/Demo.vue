@@ -4,6 +4,11 @@
     is-link
     to="Signature"
   />
+  <van-cell
+    title="页面截图"
+    is-link
+    to="Screenshots"
+  />
 </template>
 
 <script>
