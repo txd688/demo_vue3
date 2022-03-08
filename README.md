@@ -75,3 +75,11 @@ html2canvas 生成截图。
 安装：**npm install --save html2canvas**
 
 推荐学习文档：[docs](http://html2canvas.hertzen.com/)
+
+### webpack-bundle-analyzer
+
+webpack-bundle-analyzer 读取输出文件夹（通常是dist）中的stats.json文件，把该文件可视化展现的插件。便于直观地比较各个bundle文件的大小，以达到优化性能的目的。
+
+安装：**npm install webpack-bundle-analyzer --save-dev**
+
+推荐学习文档：[docs](https://www.npmjs.com/package/webpack-bundle-analyzer)
