@@ -83,3 +83,27 @@ webpack-bundle-analyzer 读取输出文件夹（通常是dist）中的stats.json
 安装：**npm install webpack-bundle-analyzer --save-dev**
 
 推荐学习文档：[docs](https://www.npmjs.com/package/webpack-bundle-analyzer)
+
+### Lodash
+
+Lodash 是一个一致性、模块化、高性能的 JavaScript 实用工具库。
+
+安装：**npm i --save lodash**
+
+推荐学习文档：[docs](https://www.lodashjs.com/)
+
+### vconsole
+
+vconsole 一个轻量、可拓展、针对手机网页的前端开发者调试面板。
+
+安装：**npm install vconsole**
+
+推荐学习文档：[docs](https://github.com/Tencent/vConsole/blob/dev/README_CN.md)
+
+### babel-plugin-transform-remove-console
+
+babel-plugin-transform-remove-console 正式环境去掉console调试。
+
+安装：**npm i --save-dev babel-plugin-transform-remove-console**
+
+推荐学习文档：[docs](https://blog.csdn.net/weixin_42301962/article/details/110185965)
