@@ -35,6 +35,7 @@ npm run lint
 1. 手写签名
 2. 屏幕截图
 3. 生成二维码
+4. 代码高亮效果
 
 ## 使用插件介绍
 
@@ -117,3 +118,11 @@ qrcodejs2 用于制作二维码的库。
 安装：**npm i qrcodejs2**
 
 推荐学习文档：[docs](https://www.npmjs.com/package/qrcodejs2)
+
+### vue3-highlightjs
+
+vue3-highlightjs 代码高亮工具。
+
+安装：**yarn add vue3-highlightjs**
+
+推荐学习文档：[docs](https://www.npmjs.com/package/vue3-highlightjs?activeTab=dependencies)

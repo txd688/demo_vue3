@@ -19,6 +19,7 @@
     "vconsole": "^3.12.1",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3",
+    "vue3-highlightjs": "^1.0.5",
     "vuex": "^4.0.0"
   },
   "devDependencies": {

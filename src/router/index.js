@@ -26,6 +26,11 @@ const routes = [
         path: '/demo/qrCode',
         name: 'QrCode',
         component: () => import('@/views/demo/QrCode.vue')
+      },
+      {
+        path: '/demo/highlightDemo',
+        name: 'HighlightDemo',
+        component: () => import('@/views/demo/HighlightDemo.vue')
       }
     ]
   }

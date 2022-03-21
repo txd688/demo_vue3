@@ -14,6 +14,11 @@
     is-link
     to="QrCode"
   />
+  <van-cell
+    title="代码高亮"
+    is-link
+    to="HighlightDemo"
+  />
 </template>
 
 <script>
