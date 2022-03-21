@@ -13,6 +13,7 @@
     "core-js": "^3.8.3",
     "html2canvas": "^1.4.1",
     "lodash": "^4.17.21",
+    "qrcodejs2": "^0.0.2",
     "smooth-signature": "^1.0.11",
     "vant": "^3.4.5",
     "vconsole": "^3.12.1",

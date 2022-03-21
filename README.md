@@ -34,6 +34,7 @@ npm run lint
 
 1. 手写签名
 2. 屏幕截图
+3. 生成二维码
 
 ## 使用插件介绍
 
@@ -108,3 +109,11 @@ babel-plugin-transform-remove-console 正式环境去掉console调试。
 安装：**npm i --save-dev babel-plugin-transform-remove-console**
 
 推荐学习文档：[docs](https://blog.csdn.net/weixin_42301962/article/details/110185965)
+
+### qrcodejs2
+
+qrcodejs2 用于制作二维码的库。
+
+安装：**npm i qrcodejs2**
+
+推荐学习文档：[docs](https://www.npmjs.com/package/qrcodejs2)

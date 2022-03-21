@@ -9,6 +9,11 @@
     is-link
     to="Screenshots"
   />
+  <van-cell
+    title="生成二维码"
+    is-link
+    to="QrCode"
+  />
 </template>
 
 <script>
