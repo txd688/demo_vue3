@@ -30,9 +30,10 @@ npm run test:unit
 npm run lint
 ```
 
-## 功能
+## 实现功能
 
 1. 手写签名
+2. 屏幕截图
 
 ## 使用插件介绍
 
